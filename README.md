@@ -15,7 +15,7 @@
 - **Collision Detection**: Prevents movement through walls and checks interactions with collectibles and the exit.
 - **Movement Counter**: Displays the number of moves in the shell (or on-screen as a bonus).
 - **Window Management**: Smooth window handling. `ESC` or close button exits the game.
-- 
+
 ## How to Run
 
 1. Compile the program:
